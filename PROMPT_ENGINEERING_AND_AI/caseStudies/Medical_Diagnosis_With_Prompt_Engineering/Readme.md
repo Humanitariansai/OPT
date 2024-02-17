@@ -1,5 +1,8 @@
 # Revolutionizing Medical Diagnosis with AI and Prompt Engineering
 
+#### Document URL: https://docs.google.com/document/d/1a5DN8nwZb65hghlm54DG3givDTTN4vaVUqt39UQz6K0/edit
+
+
 ## Project Scope
 This case study explores the transformative potential of artificial intelligence (AI) and prompt engineering in medical diagnostics, aiming to enhance accuracy and efficiency in interpreting patient data.
 

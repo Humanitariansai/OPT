@@ -59,7 +59,7 @@ Summarizes the findings, implications for future research, and the overall impac
 Lists and describes the AI models evaluated in the study, including pre-trained models like GPT-3, BioBERT, and ClinicalBERT.
 
 ## Reference Paper Publications and Articles
-1.	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795119/![image](https://github.com/divyajangid2496/humanitarians-OPT-fork-Divya/assets/92000178/4d8c3052-70a2-4f25-827b-ecb34439c2d4)
+1.	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795119
 
 ## Ethical Considerations
 Addresses the ethical dimensions of using AI in healthcare, including privacy, consent, and bias.

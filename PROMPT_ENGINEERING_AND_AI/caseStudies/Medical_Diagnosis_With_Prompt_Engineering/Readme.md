@@ -27,10 +27,10 @@ This case study explores the transformative potential of artificial intelligence
 - [Contact Information](#contact-information)
 
 ## Introduction
-The introduction outlines the motivation behind the case study, its relevance, and the anticipated contribution to the field of medical diagnostics through the application of AI and prompt engineering.
+The integration of prompt engineering and artificial intelligence (AI) in medical diagnosis represents a paradigm shift in healthcare delivery. With the promise of enhancing diagnostic accuracy, efficiency, and patient outcomes, this case study delves into the transformative potential of these innovative approaches. By exploring real-world applications and interdisciplinary collaborations, we aim to elucidate how prompt engineering and AI can revolutionize diagnostic practices, paving the way for a more precise, patient-centered, and ethically responsible approach to medical diagnosis.
 
 ## Problem Statements
-Detailing specific challenges within medical diagnostics that this case study aims to address using AI technologies and innovative prompt engineering techniques.
+In the realm of medical diagnostics, significant challenges persist, ranging from diagnostic errors to the timely detection and interpretation of complex medical data. With diagnostic errors accounting for a substantial portion of medical mishaps and associated mortality rates, there is a pressing need for more efficient and accurate diagnostic methods. This case study addresses these challenges head-on, seeking to harness the power of prompt engineering and AI to streamline diagnostic processes, improve diagnostic accuracy, and ultimately enhance patient care. Through an exploration of interdisciplinary collaboration and ethical considerations, we aim to provide insights into how these innovative technologies can address critical gaps in medical diagnosis while navigating complex ethical and regulatory landscapes.
 
 ## Research Methods
 Describes the comprehensive approach taken in the case study, including literature review, data analysis, model evaluation, and theoretical scenarios for implementation.
@@ -38,10 +38,10 @@ Describes the comprehensive approach taken in the case study, including literatu
 ## Case Study Sections
 
 ### Abstract
-A concise overview of the case study's aims, methodology, and key findings.
+The integration of prompt engineering and artificial intelligence (AI) in healthcare is poised to revolutionize medical diagnosis. Despite persistent challenges in timely disease detection and accurate interpretation of complex medical data, the synergy between prompt engineering and AI offers a promising solution. This study explores the transformative potential of integrating these innovative approaches in medical diagnosis, with a focus on interdisciplinary collaboration, enhanced patient care, and the harnessing of advanced technologies. Addressing critical challenges such as patient data privacy, transparency, and accountability, this case study aims to illuminate how prompt engineering and AI can revolutionize diagnostic practices for the betterment of healthcare delivery and patient care.
 
 ### Introduction
-Introduces the problem statement and the role of AI in advancing medical diagnostic processes.
+In the landscape of healthcare, the integration of advanced technologies like artificial intelligence (AI) is reshaping medical diagnosis. With diagnostic errors accounting for a significant portion of medical mishaps and associated mortality rates, there is an urgent need for more efficient and precise diagnostic methods.By addressing challenges related to diagnostic accuracy, efficiency, and patient care, this case study seeks to explore how AI-driven diagnostic solutions can enhance healthcare delivery while navigating ethical and regulatory considerations. Through interdisciplinary collaboration and responsible technology implementation, we aim to pave the way for a future where medical diagnosis is not only more accurate and efficient but also more patient-centered and ethically sound.
 
 ### Literature Review
 Reviews existing research and developments in AI applications in healthcare, focusing on diagnostics and the role of prompt engineering.
@@ -59,7 +59,7 @@ Summarizes the findings, implications for future research, and the overall impac
 Lists and describes the AI models evaluated in the study, including pre-trained models like GPT-3, BioBERT, and ClinicalBERT.
 
 ## Reference Paper Publications and Articles
-A comprehensive list of scholarly articles, research papers, and other publications referenced throughout the case study.
+1.	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795119/![image](https://github.com/divyajangid2496/humanitarians-OPT-fork-Divya/assets/92000178/4d8c3052-70a2-4f25-827b-ecb34439c2d4)
 
 ## Ethical Considerations
 Addresses the ethical dimensions of using AI in healthcare, including privacy, consent, and bias.
@@ -74,6 +74,6 @@ Reiterates the significance of the case study, its contributions, and the envisi
 Expresses gratitude to those who contributed to the case study, including mentors, peers, and supportive organizations.
 
 ## Contact Information
-- **Name:** Divya [Last Name]
-- **Email:** [Email Address]
-- **Affiliation:** [University/Institution]
+- **Name:** Divya Jangid
+- **Email:** jangid.d@northeastern.edu
+- **Affiliation:** Northeastern University, Boston

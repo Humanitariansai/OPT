@@ -10,6 +10,7 @@ This project is dedicated to developing an educational suite focusing on the fun
 - Illustrate the real-world impact and applications of LLMs through case studies and use cases.
 
 ## Content Structure
+
 ### Introduction to LLMs and Prompting
 #### Slide Decks
 - Unveiling Large Language Models

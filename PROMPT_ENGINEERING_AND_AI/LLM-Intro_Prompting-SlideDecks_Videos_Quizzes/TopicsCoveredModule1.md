@@ -76,4 +76,5 @@ A hands-on initiation into the world of AI-powered content generation.
 - Ensure questions cover key concepts and topics presented in the entire module.
   
 # [LinkToViewPPt](https://docs.google.com/presentation/d/1aIFUSefNdRyMK_i3EkXkH4qNDRn_laGtggvohQ0812I/edit#slide=id.p3)
-  
+# [LinkToViewProjectPlanning](https://github.com/users/parthasarathydNU/projects/1)
+

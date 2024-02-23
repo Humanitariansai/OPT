@@ -33,8 +33,10 @@ The integration of prompt engineering and artificial intelligence (AI) in medica
 ## Problem Statements
 In the realm of medical diagnostics, significant challenges persist, ranging from diagnostic errors to the timely detection and interpretation of complex medical data. With diagnostic errors accounting for a substantial portion of medical mishaps and associated mortality rates, there is a pressing need for more efficient and accurate diagnostic methods. As highlighted by Taylor [3], diagnostic errors account for a staggering 60% of all medical errors in U.S. hospitals, resulting in an estimated 40,000 to 80,000 deaths annually. The imperative to reduce these errors has spurred the adoption of AI-based technologies across various healthcare fields, aiming to augment human judgment and improve diagnostic accuracy. This case study addresses these challenges head-on, seeking to harness the power of prompt engineering and AI to streamline diagnostic processes, improve diagnostic accuracy, and ultimately enhance patient care. Through an exploration of interdisciplinary collaboration and ethical considerations, we aim to provide insights into how these innovative technologies can address critical gaps in medical diagnosis while navigating complex ethical and regulatory landscapes.
 
-## Research Methods
-Describes the comprehensive approach taken in the case study, including literature review, data analysis, model evaluation, and theoretical scenarios for implementation.
+## Research Methods 
+1. PubMed Literature Review
+2. Chat-GPT, BioBERT, ClinicalBERT analysis
+3. Prompt Engineering methods to enhance efficiency
 
 ## Case Study Sections
 
@@ -45,22 +47,23 @@ The integration of prompt engineering and artificial intelligence (AI) in health
 In the landscape of healthcare, the integration of advanced technologies like artificial intelligence (AI) is reshaping medical diagnosis. With diagnostic errors accounting for a significant portion of medical mishaps and associated mortality rates, there is an urgent need for more efficient and precise diagnostic methods.By addressing challenges related to diagnostic accuracy, efficiency, and patient care, this case study seeks to explore how AI-driven diagnostic solutions can enhance healthcare delivery while navigating ethical and regulatory considerations. Through interdisciplinary collaboration and responsible technology implementation, we aim to pave the way for a future where medical diagnosis is not only more accurate and efficient but also more patient-centered and ethically sound.
 
 ### Literature Review
-Reviews existing research and developments in AI applications in healthcare, focusing on diagnostics and the role of prompt engineering.
+1. PubMed Literature Review
 
-### Methodology
+### Methodology (TBD)
 Explains the methods for selecting/designing prompts and evaluating AI models' effectiveness in medical diagnostics.
 
-### Analysis
+### Analysis (TBD)
 Discusses the advantages, limitations, and the potential impact of AI and prompt engineering in healthcare diagnostics.
 
-### Conclusion
+### Conclusion (TBD)
 Summarizes the findings, implications for future research, and the overall impact on the field of medical diagnostics.
 
-## Models Evaluated
+## Models Evaluated (TBD)
 Lists and describes the AI models evaluated in the study, including pre-trained models like GPT-3, BioBERT, and ClinicalBERT.
 
 ## Reference Paper Publications and Articles
 1.	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795119
+2.	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10517477/#CR94
 
 ## Ethical Considerations
 Addresses the ethical dimensions of using AI in healthcare, including privacy, consent, and bias.

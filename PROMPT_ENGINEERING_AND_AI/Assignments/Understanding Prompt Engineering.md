@@ -10,7 +10,8 @@ Part 1: Explain Prompt Engineering (roughly 300-400 words)
 
 In this part of the assignment, you are required to provide a comprehensive explanation of what prompt engineering is and why it is important in the field of natural language processing and machine learning. Your explanation should cover the following points:
 
-- Define Prompt Engineering: Begin by defining prompt engineering in your own words. Explain its purpose and significance.
+- Define Prompt Engineering: Begin by defining prompt engineering in your own words. 
+- Explain its purpose and significance.
 
 Part 2: Create a Motivating Example (200-250 words)
 

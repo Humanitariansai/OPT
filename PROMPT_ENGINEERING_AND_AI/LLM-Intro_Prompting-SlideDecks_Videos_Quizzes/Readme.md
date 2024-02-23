@@ -10,6 +10,7 @@ This project is dedicated to developing an educational suite focusing on the fun
 - Illustrate the real-world impact and applications of LLMs through case studies and use cases.
 
 ## Content Structure
+
 ### Introduction to LLMs and Prompting
 #### Slide Decks
 - Unveiling Large Language Models
@@ -27,6 +28,9 @@ This project is dedicated to developing an educational suite focusing on the fun
 
 ### References and Further Reading
 - A compilation of resources for deep dives into LLM technologies and prompt engineering practices.
+
+# [LinkToViewProjectPlanning](https://github.com/users/parthasarathydNU/projects/1)
+# [LinkToViewPPtforModule1](https://docs.google.com/presentation/d/1aIFUSefNdRyMK_i3EkXkH4qNDRn_laGtggvohQ0812I/edit#slide=id.p3)
 
 
 

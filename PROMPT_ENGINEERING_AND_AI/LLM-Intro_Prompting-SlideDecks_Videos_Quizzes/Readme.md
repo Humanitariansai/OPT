@@ -31,7 +31,7 @@ This project is dedicated to developing an educational suite focusing on the fun
 
 # [LinkToViewProjectPlanning](https://github.com/users/parthasarathydNU/projects/1)
 # [LinkToViewPPtforModule1](https://docs.google.com/presentation/d/1aIFUSefNdRyMK_i3EkXkH4qNDRn_laGtggvohQ0812I/edit#slide=id.p3)
-
+# [LinkToViewDifferentPromtPatterns with ChatGPt Interaction](https://docs.google.com/document/d/16pKaAONgvsCgLn1GQo1D5ZBB5tCjA9_2ctoJ4Nhqze4/edit)
 
 
 
